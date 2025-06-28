@@ -24,7 +24,7 @@ docker build -t go-calculator .
 docker build -t reduced-calculator .
 
 ### ✅ Check the docker images size 
-docker imges 
+docker images 
 
 ## 📦 Image Size Comparison
 
